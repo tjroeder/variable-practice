@@ -12,3 +12,9 @@ num_planes = 88
 is_on_lightbulb = true
 is_home = false
 is_gone = true
+
+# Arrays
+name_list = ['Junior', 'Elvis', 'Billy-Bob']
+villian_list = ['Dr. Evil', 'Jaws', 'Darth Helmet']
+num_list = [1, 2, 3, 5]
+
