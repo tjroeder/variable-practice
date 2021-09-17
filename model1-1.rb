@@ -18,3 +18,7 @@ name_list = ['Junior', 'Elvis', 'Billy-Bob']
 villian_list = ['Dr. Evil', 'Jaws', 'Darth Helmet']
 num_list = [1, 2, 3, 5]
 
+# Hashes
+person = {name: 'Tim', place: 'Colorado', age: 30, human: true}
+place = {name: 'Denver', state: 'CO', country: 'USA'}
+thing = {edible: true, delicious: true, food: 'taco'}
